@@ -1537,6 +1537,18 @@
                 "longitude": 6.083856
             },
             "feed_url": "https://di.esel.ac/gbfs/gbfs.json"
+        },
+        {
+            "tag": "dott-aachen",
+            "meta": {
+                "country": "DE",
+                "city": "Aachen",
+                "company": ["Dott"],
+                "name": "Dott Aachen",
+                "latitude": 50.776346,
+                "longitude": 6.083856
+            },
+            "feed_url": "https://gbfs.api.ridedott.com/public/v2/aachen/gbfs.json"
         }
     ],
     "system": "gbfs",
